@@ -2,9 +2,6 @@ Muhammad Reyhan Fachrurozi
 140810255501
 
 # Vigenère Cipher & Autokey Cipher
-
-Folder ini berisi skrip Python untuk melakukan enkripsi menggunakan algoritma **Vigenère Cipher** dan **Autokey Cipher**. Skrip ini dirancang untuk menampilkan kalkulasi indeks numerik ($n(PT)$ dan $n(K)$) secara transparan.
-
 ---
 
 ## 🛠️ Penjelasan Alur Program
@@ -23,4 +20,4 @@ Folder ini berisi skrip Python untuk melakukan enkripsi menggunakan algoritma **
      $$C_i = (P_i + K_i) \bmod 26$$
    * Menggabungkan karakter hasil kalkulasi ke dalam variabel string *ciphertext*.
 
-![Screenshot Running Program](./screenshot.png)
+![Screenshot Running Program](./Tugas%203/screenshot.png)
